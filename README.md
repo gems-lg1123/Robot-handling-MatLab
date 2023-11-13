@@ -40,6 +40,3 @@ To use this code:
 ### Simulation Environment
 - The script creates a simulated environment with objects like shelves, plates, and wheels to demonstrate the robot's interaction capabilities.
 
-## Contributing
-Contributions to this project are welcome. Please ensure to follow the existing code structure and comment your code thoroughly.
-
